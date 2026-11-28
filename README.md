@@ -1,11 +1,11 @@
 # я умер
 ![свинья бежит](https://media.tenor.com/SM6briK1VvAAAAAj/medium-pig.gif)![свинья бежит](https://media.tenor.com/SM6briK1VvAAAAAj/medium-pig.gif)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=llantern-workks&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru)
+
 **О бебе: та ничо я ни умею**
 Помогает етот -> <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" width="32" height="32" alt="DeepSeek">
 
-Мой сервер:
-[![Sovereignty](https://millida.net/banner/sovereignty.millida.host.png)](https://millida.net/j/sovereignty)
 <!--
 <div>
   <picture>
